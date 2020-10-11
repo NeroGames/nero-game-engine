@@ -6,7 +6,6 @@
 The Nero Game Engine version II, is a Professional 2D Game Engine built around SFML and Box2D.
 
 You can find the Engine first version here : [Nero Game Engine r1.x](https://github.com/NeroGames/Nero-Game-Engine/tree/engine/v1)
-<a href="http://example.com/" target="_blank">Nero Game Engine r1.x</a>
 
 ## Links
 - [Website](https://www.nero-game.com/) 	Download the Engine and learn how to use it
