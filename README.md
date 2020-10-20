@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NeroGames/Nero-Game-Engine.svg?branch=master)](https://travis-ci.org/NeroGames/Nero-Game-Engine)
+
 ![alt text](https://www.nero-game.com/resource/artwork/github/github_readme_header_02.png)
 ![alt text](https://www.nero-game.com/resource/artwork/github/github_readme_engine_v2.png)
 
